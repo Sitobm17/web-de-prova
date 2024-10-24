@@ -1,4 +1,4 @@
 <?php
 phpinfo();
 ?>
-<a href="web-de-prova/index.html">Inici</a>
+<a href="../index.html">Inici</a>
