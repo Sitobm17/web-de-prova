@@ -1,4 +1,4 @@
+<a href="../index.html">inici</a>
 <?php
 phpinfo();
 ?>
-<a href="../index.html">Inici</a>
